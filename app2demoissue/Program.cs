@@ -1,10 +1,10 @@
-﻿--namespace app2demoissue
+﻿namespace app2demoissue
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, Jonathan Laxon!");
+            Console.WriteLine("Hello, World!");
         }
     }
 }
